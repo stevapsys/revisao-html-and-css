@@ -79,10 +79,10 @@ main {
         display: block;
     }
     .article {
-        width: 100%;
+        width:calc(100% - 20px);
     }
     .aside {
-        width: 100%;
+        width:calc(100% - 20px);
     }
 }
 
